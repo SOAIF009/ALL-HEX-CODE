@@ -41,7 +41,7 @@
     "dragw": 210,
     "aimbotexr": 158,
     "aimbotexw": 162,
-    "noti": "Dear User our Panel is now work well patch update 33.42 MB Awm scope Awm switch cannot be used with bypass. ভাইপাস এর সাথে এ ডাবলু স্কোপ এ ডব্লিউ এম সুইচ ব্যবহার করা যাবে না And Aimbot Ai code Update and sniper and camera 100% safe new auto all code update done full safe For More Safty.. Please suport us ❤❤",
+    "noti": "Dear User our Panel is now work well Awm scope Awm switch cannot be used with bypass. ভাইপাস এর সাথে এ ডাবলু স্কোপ এ ডব্লিউ এম সুইচ ব্যবহার করা যাবে না And Aimbot Ai code Update and sniper and camera 100% safe new auto all code update done full safe For More Safty.. Please suport us ❤❤",
     "bot32": "D0",
     "bot321": "20",
     "bot64": "E0"
