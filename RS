@@ -42,9 +42,7 @@
     "aimbotexr": 168,
     "aimbotexw": 172,
     "noti": "Dear User our Panel is now work well And camera code update For More Safty .. Please suport us ❤❤",
-    "bot1": "D0",
-    "bot2": "20",
-    "bot3": "E0",
-    "bot4": "90",
-    "bot4": "70"
+    "bot32": "D0",
+    "bot321": "20",
+    "bot64": "E0"
 }
