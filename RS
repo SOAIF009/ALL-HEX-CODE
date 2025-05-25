@@ -43,6 +43,6 @@
     "aimbotexw": 172,
     "noti": "Dear User our Panel is now work And Aimbot Ai code Update and sniper and camera and all switch full safe 100% safe new auto all code update done OBB 49 full safe .. Please suport us ❤❤",
     "bot32": "D0",
-    "bot321": "20",
+    "bot321
     "bot64": "E0"
 }
