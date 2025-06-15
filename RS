@@ -41,7 +41,7 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 172,
-    "noti": "If our panel working fine then Give Feedback in Discord Server new 😍😍",
+    "noti": "Dear User our Panel is now work And Aimbot Ai code Update ( 🚫 and sniper and camera and switch not 100% safe 🛠️ ) Aimbot Ai code full 100% safe ✔ auto all code update done OBB 49 full safe .. Please suport us ❤❤",
     "bot1": "40",
     "bot2": "E0",
     "bot3": "90",
