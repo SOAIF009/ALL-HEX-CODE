@@ -41,7 +41,7 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 172,
-    "noti": "Dear User our Panel is now work And Aimbot Ai code Update . ( ⚠️ and camera and ALL switch noot USE ⭒˗ˏˋ𓆩 ⚠ 𓆪ˎˊ˗⭒ ) Aimbot Ai code full 100% safe auto all code update done OBB 49 full safe .. Please suport us Developer by RASHED ❤❤",
+    "noti": "Dear User our Panel is now work well And Aimbot Ai code Update 100% Safe Sniper Scope Sniper Awm Sniper Awm Y Sniper M82b code update For More Safty OBB 49 Full Safe Developer by Soaif.. Please suport us ❤❤",
     "bot1": "40",
     "bot2": "E0",
     "bot3": "90",
