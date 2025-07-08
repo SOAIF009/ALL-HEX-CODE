@@ -41,7 +41,7 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 172,
-    "noti": "Dear User our Panel is now work well Id ban problem... Please suport us ❤❤",
+    "noti": "Dear User our Panel is now work well And Aimbot Ai code Update 100% Safe Sniper Scope Sniper Awm Sniper Awm Y Sniper M82b code update For More Safty OBB 49 Full Safe Developer by Soaif প্যানেলে কোন প্রকার সমস্যা হইলে বিপলপারের সাথে যোগাযোগ করুন এমনকি ডেভেলপার কে বলুন যে আমার এই সমস্যা হইছে ডেভলপারের আপনারা করতে আপডেট করে দিবে If you have any problems with the panel, contact the developer or even tell the developer that I have this problem. The developer will update it for you ®™... Please suport us ❤❤",
     "bot1": "40",
     "bot2": "E0",
     "bot3": "90",
