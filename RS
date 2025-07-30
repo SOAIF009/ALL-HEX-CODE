@@ -58,6 +58,6 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 172,
-    "noti": "Hello friends, new all your panels have been updated. If there is any problem, please give feedback quickly in the text box inside your feed bag.... Please suport us ❤❤❤",
-    "bot1": "40",  
+    "noti": "Hello friends, w all your panels have been updated. If there is any problem, please give feedback quickly in the text box inside your feed bag.... Please suport us ❤❤❤",
+    "bot1": "D0",  
 }
