@@ -59,7 +59,7 @@
     "aimbotexr": 168,
     "aimbotexw": 172,
     "noti": "Hello friends, AAA all your panels have been updated. If there is any problem, please give feedback quickly in the text box inside your feed bag.... Please suport us ❤❤❤",
-    "bot1": "40",
+    "bot1": "10",
     "bot2": "",
     "bot3": "",
     "bot4": "",
