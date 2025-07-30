@@ -58,13 +58,9 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 172,
-    "noti": "Hello friends, FGYGYGF all your panels have been updated. If there is any problem, please give feedback quickly in the text box inside your feed bag.... Please suport us ❤❤❤",
+    "noti": "Hello friends, all your panels have been updated. If there is any problem, please give feedback quickly in the text box inside your feed bag.... Please suport us ❤❤❤",
     "bot1": "40",
     "bot2": "E0",
     "bot3": "90",
-    "bot4": "18"
-    "bot5": "",
-    "bot11": "",
-    "bot6": "",
-    "bot7": "",
+    "bot4": "18",   
 }
